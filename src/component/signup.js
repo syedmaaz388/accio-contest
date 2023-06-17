@@ -76,7 +76,7 @@ const handleSignup=(e)=>{
                     <button onClick={handleSignup} className="btn">Signup</button>
                    
                      </div>
-                    {/* <button id="signup-btn" class="btn" type="submit">Signup</button> */}
+                    
 
       </div>
       
